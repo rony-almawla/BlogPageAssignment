@@ -1,39 +1,98 @@
 body {
-    background-color: orangered;
-  }
-  .div2 {
-    text-align: center;
-    color: white;
-    background-color: orangered;
-    margin: 50px;
-    background-color: gray ;
-  }
-  .h1 {
-    margin: 0px;
-    padding: 0px;
-    
-  }
-  
-  .section1 {
+  background-color: orangered;
+}
+.div2 {
+  text-align: center;
+  color: white;
+  background-color: orangered;
+  margin: 50px;
+  background-color: gray;
+}
+.h1 {
+  margin: 0px;
+  padding: 0px;
+}
+
+.section1 {
+  background-color: white;
+  text-align: center;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 50px;
+}
+.img1 {
+  text-align: center;
+  width: 250px;
+  height: 250px;
+}
+.div1 {
+  background-color: orangered;
+}
+h2 {
+  text-align: left;
+}
+h3 {
+  text-align: left;
+}
+
+p {
+  text-align: left;
+}
+
+.div5 {
+  text-align: center;
+}
+
+.section2 {
+  background-color: white;
+  text-align: center;
+}
+
+.div4 {
+    width: 300px;
+    height: 200px;
+     text-align: center;
+     margin-top: 10px;
+     margin-left: 250px;
+     margin-right: 250px;
+     padding: 50px;
+   
+   display:inline-block;
+   
+   }
+.div5{
+ 
     background-color: white;
-    text-align: center;
-    margin-left: 250px;
-    margin-right: 250px;
-    padding: 50px;
-  }
-  .img1 {
-    text-align: center;
-    width: 250px;
-    height: 250px;
-  }
-  .div1 {
-    background-color: orangered;
-  }
-  h2 {
     text-align: left;
-  }
-  
-  p {
+    margin-bottom: 50px;
+    display: inline-block;  
+    
+
+}
+.div6{
+
+    background-color: white;
+    text-align: right;
+    margin-bottom: 50px;
+    display: inline-block;  
+}
+
+
+
+.img2 {
     text-align: left;
-  }
+  width: 250px;
+  height: 250px;
+  margin: 30px;
   
+}
+.img3 {
+    margin: 30px;
+  width: 250px;
+  height: 250px;
+  
+}
+
+.p2{
+    text-align: center;
+}
